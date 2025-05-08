@@ -8,14 +8,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on NLP and MultiModal AI
+- 🌱 I’m currently learning agentic AI
+- 👯 I’m looking to collaborate on AI business worflows
+- 🤔 I’m looking for help with databases and cloud settings
+- 💬 Ask me about: data science and institutions
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: let's take a break and talk about how much philosophy can help you structure your vision!
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -24,7 +23,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🔗 Contact Me
 You can reach me through the following platforms:
 - **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/alba-morquecho-delgado/)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alba-morquecho-delgado/))
+- **LinkedIn**:[[Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alba-morquecho-delgado/))
 - **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 
 ---
