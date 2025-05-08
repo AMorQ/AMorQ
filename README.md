@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🔗 Contact Me
 You can reach me through the following platforms:
 - **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com)
-- **LinkedIn**:[[Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alba-morquecho-delgado/))
+- **LinkedIn**:[Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alba-morquecho-delgado/)
 - **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 
 ---
