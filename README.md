@@ -30,8 +30,15 @@ You can reach me through the following platforms:
 
 ## 💻 Languages I Use
 Here are some of the programming languages and technologies I work with:
-- **Languages**: Python, HTML, CSS, C++
+- **Languages**: Python, HTML, CSS
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux]
+![Python]https://img.shields.io/badge/Python-8A2BE2
 - **Libraries**: Tensorflow
+- - **Frameworks** : MLOps
 
 ---
 
