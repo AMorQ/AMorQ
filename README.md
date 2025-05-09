@@ -45,8 +45,9 @@ Here are some of the programming languages and technologies I work with:
 - **ML Libraries**:
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
 - **Data Science Libraries**
-- ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
-- ** ML Frameworks** : MLOps
+![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit-Learn-8A2BE2?style=for-the-badge&logo=scikit&logoColor=white)
+- ** ML Frameworks** : MLOps ![MLFlow](https://img.shields.io/badge/MLFlow-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 _______________________________________________________________________________________________
 
