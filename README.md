@@ -9,7 +9,7 @@
 **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com) &nbsp;&nbsp;
 **Portfolio**: [My Portfolio](https://yourwebsite.com)
 
-
+\
 - 😄 Pronouns: she/her
 
 - 🔭 I’m currently working on NLP and MultiModal AI
