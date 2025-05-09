@@ -7,7 +7,7 @@
 
 **Location**: Madrid(Europe) \
 **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com) &nbsp;&nbsp;
-**Portfolio**: [My Portfolio](https://yourwebsite.com) \
+**Portfolio**: [My Portfolio](https://yourwebsite.com)<br><br><br>
 
 
 - 😄 Pronouns: she/her
@@ -58,12 +58,11 @@ Here are some of the programming languages and technologies I work with:
   
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white)
-  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
