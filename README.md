@@ -12,11 +12,11 @@
 
 - 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on NLP and MultiModal AI
-- 🌱 I’m currently learning agentic AI
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning agentic AI for Data Science
 - 👯 I’m looking to collaborate on AI businesses workflows
 - 🤔 I’m looking for help with databases and cloud environments
-- 💬 Ask me about: data science and institutional digital transformation
+- 💬 Ask me about: education and institutional digital transformation
 - ⚡ Fun fact: let's take a break and talk about how much philosophy can help you structure your vision!
 
 ---
