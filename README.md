@@ -69,7 +69,7 @@ Here are some of the programming languages and technologies I work with:
 _____________________________________________________________________________________________________________________________
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMorQ&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMorQ&show_icons=true&theme=synthwave)
 
 
 
