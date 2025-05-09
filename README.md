@@ -54,8 +54,8 @@ Here are some of the programming languages and technologies I work with:
 **Python Libraries**:
   
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-543DE0?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF4500?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
