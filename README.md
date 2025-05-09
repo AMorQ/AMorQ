@@ -38,14 +38,17 @@ Here are some of the programming languages and technologies I work with:
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-8A2BE2)
-![Python](https://img.shields.io/badge/Matlab-8A2BE2)
-- **Libraries**: Tensorflow
-- - **Frameworks** : MLOps
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-8A2BE2?style=for-the-badge&logo=matlab&logoColor=white)
+- **ML Libraries**:
+![Tensorflow](https://img.shields.io/badge/Tensorflow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **Data Science Libraries**
+- ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
+- ** ML Frameworks** : MLOps
 
----
+_______________________________________________________________________________________________
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMorQ&show_icons=true&theme=radical)
