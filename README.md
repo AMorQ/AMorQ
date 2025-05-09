@@ -35,7 +35,7 @@ Here are some of the programming languages and technologies I work with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-8A2BE2?style=for-the-badge&logo=matlab&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-23FFFC00?style=for-the-badge&logo=matlab&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-C21325.svg?style=for-the-badge&logo=latex&logoColor=white)
