@@ -66,7 +66,7 @@ Here are some of the programming languages and technologies I work with:
 
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
-_____________________________________________________________________________________________________________________________
+---
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMorQ&show_icons=true&theme=synthwave)
