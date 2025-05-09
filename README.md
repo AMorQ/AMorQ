@@ -5,9 +5,10 @@
 ## Hi there 👋
 ### Im Alba Morquecho-Delgado and I welcome you to my GitHub profile! Here's a bit about me:
 
-**Location**: Madrid(Europe)
-**Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com)
+**Location**: Madrid(Europe) \
+**Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com) &nbsp;&nbsp;
 **Portfolio**: [My Portfolio](https://yourwebsite.com)
+
 
 - 😄 Pronouns: she/her
 
@@ -36,7 +37,6 @@ Here are some of the programming languages and technologies I work with:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-8A2BE2?style=for-the-badge&logo=matlab&logoColor=white)
 
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -54,24 +54,17 @@ Here are some of the programming languages and technologies I work with:
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Libraries**:
-
-  ML
+**Python Libraries**:
   
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-  Computer Vision
   
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-  Data Science
   
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-----------------------------------------------------------------------------------------------------------------------------  Testing in Production
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 _____________________________________________________________________________________________________________________________
