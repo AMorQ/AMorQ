@@ -47,7 +47,7 @@ Here are some of the programming languages and technologies I work with:
 ![GitHub](https://img.shields.io/badge/GitHub-e89282.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-880000?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
