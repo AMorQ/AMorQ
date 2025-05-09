@@ -19,14 +19,13 @@
 
 ## 🔗 Contact Me
 You can reach me through the following platforms:
-<!-- - **Email**: -->
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  [albamorq@gmail.com](mailto:albamorq@gmail.com)
+**Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com)
 
-**LinkedIn** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-morquecho-delgado/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-morquecho-delgado/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albamorquechodelgado)
 
 - **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
-- ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 
 ---
 
