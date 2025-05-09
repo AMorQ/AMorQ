@@ -25,6 +25,9 @@ You can reach me through the following platforms:
 - **LinkedIn**: LinkedIn	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/alba-morquecho-delgado/](https://www.linkedin.com/in/alba-morquecho-delgado/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [LinkedIn Profile](https://www.linkedin.com/in/albamorq/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-morquecho-delgado/)
+
 - **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 - ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
