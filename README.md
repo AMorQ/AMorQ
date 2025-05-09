@@ -19,7 +19,8 @@
 
 ## 🔗 Contact Me
 You can reach me through the following platforms:
-- **Email**: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[albamorq@gmail.com](mailto:albamorq@gmail.com)
+- **Email**: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  [albamorq@gmail.com](mailto:albamorq@gmail.com)
 - **LinkedIn**: LinkedIn	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/alba-morquecho-delgado/](https://www.linkedin.com/in/alba-morquecho-delgado/)
 - **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
 - ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
