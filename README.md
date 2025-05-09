@@ -3,7 +3,7 @@
 -->
 
 ## Hi there 👋
-### Im Alba Morquecho-Delgado and I welcome you to my GitHub profile! Here's a bit about me:
+### Im Alba Morquecho-Delgado 😊 and I welcome you to my GitHub profile! Here's a bit about me:
 
 **Location**: Madrid(Europe) \
 **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com) &nbsp;&nbsp;
@@ -78,4 +78,5 @@ Here are some of the programming languages and technologies I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMorQ&layout=compact&theme=radical)
 ---
 -->
-**Feel free to reach out or explore my repositories!**😊
+
+
