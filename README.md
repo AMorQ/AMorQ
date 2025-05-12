@@ -3,7 +3,7 @@
 -->
 
 ## Hi there 👋
-### Im Alba Morquecho-Delgado 😊 and I welcome you to my GitHub profile! Here's a bit about me:
+### Im Alba 😊 and I welcome you to my GitHub profile! Here's a bit about me:
 
 **Location**: Madrid(Europe) \
 **Email**: [albamorq@gmail.com](mailto:albamorq@gmail.com) &nbsp;&nbsp;
