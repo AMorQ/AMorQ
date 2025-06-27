@@ -21,7 +21,7 @@
 
 ---
 
-## 🔗 Let's stay updated!
+## 🔗 Let's stay connected!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-morquecho-delgado/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albamorquechodelgado)
